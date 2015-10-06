@@ -1,0 +1,39 @@
+# Yosts: a hosts file for Yota Tethering
+#
+# Use on device with AdAway (https://f-droid.org/repository/browse/?fdid=org.adaway)
+# Pair with Yota Tether TTL (http://4pda.ru/forum/index.php?showtopic=647126)
+# for better results
+
+127.0.0.1 localhost
+127.0.0.1 time.windows.com
+127.0.0.1 clients.google.com
+127.0.0.1 clients1.google.com
+127.0.0.1 clients2.google.com
+127.0.0.1 clients3.google.com
+127.0.0.1 clients4.google.com
+127.0.0.1 clients5.google.com
+127.0.0.1 clients6.google.com
+127.0.0.1 clients7.google.com
+127.0.0.1 clients8.google.com
+127.0.0.1 clients9.google.com
+127.0.0.1 lh1.googleusercontent.com
+127.0.0.1 lh2.googleusercontent.com
+127.0.0.1 lh3.googleusercontent.com
+127.0.0.1 lh4.googleusercontent.com
+127.0.0.1 lh5.googleusercontent.com
+127.0.0.1 lh6.googleusercontent.com
+127.0.0.1 lh7.googleusercontent.com
+127.0.0.1 encrypted-tbn1.gstatic.com
+127.0.0.1 encrypted-tbn2.gstatic.com
+127.0.0.1 encrypted-tbn3.gstatic.com
+127.0.0.1 encrypted-tbn4.gstatic.com
+127.0.0.1 encrypted-tbn5.gstatic.com
+127.0.0.1 clients2.googleusercontent.com
+127.0.0.1 redirector.gvt1.com
+127.0.0.1 r5---sn-n8v7lne6.gvt1.com
+127.0.0.1 www.googleapis.com
+127.0.0.1 cache.pack.google.com
+127.0.0.1 r8---sn-n8v7znee.c.pack.google.com
+127.0.0.1 tools.google.com
+127.0.0.1 update.utorrent.com
+127.0.0.1 genuine.microsoft.com
